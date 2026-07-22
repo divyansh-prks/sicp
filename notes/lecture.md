@@ -1,3 +1,18 @@
+1. to give names of this is important
+2. if you have names you have power of it 
+
+
+
+
+
+
+
+
+
+
+
+
+
 These notes are based on the [MIT OpenCourseWare video lectures][ocw] given in July 1986 by Hal Abelson and Gerald Jay Sussman. They follow the first edition of <cite>Structure and Interpretation of Computer Programs</cite>, not the second edition like the [textbook notes][text].
 
 [ocw]: https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/
