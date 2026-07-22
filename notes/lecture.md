@@ -198,6 +198,8 @@ Let's evaluate the sum of the square of 3 and the square of 4:
 
 This is not a perfect description of what the computer does. But it is a good enough model for now.
 
+its important to get name for parts of components 
+
 ::: highlight
 > But one of the things we have to learn how to do is ignore details. The key to understanding complicated things is to know what not to look at, and what not compute, and what not to think. [@1b.p3]
 :::
