@@ -1,5 +1,6 @@
 1. to give names of this is important
-2. if you have names you have power of it 
+2. if you have names you have power of it
+3. name things so that we can discuss something 
 
 
 
